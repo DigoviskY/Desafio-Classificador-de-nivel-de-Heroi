@@ -3,7 +3,8 @@
 
 # 🚀 Projeto Bootcamp DIO - Python
 
-Este repositório contém dois códigos desenvolvidos durante o bootcamp da DIO, aplicando conceitos de **variáveis, operadores, laços de repetição e estruturas de decisão**.
+Este repositório contém dois códigos desenvolvidos durante o bootcamp da DIO, aplicando conceitos de **variáveis,
+operadores, laços de repetição e estruturas de decisão**.
 
 ---
 
