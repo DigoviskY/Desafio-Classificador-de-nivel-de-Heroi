@@ -1,3 +1,4 @@
+```bash
 # Desafio-Classificador-de-nivel-de-Heroi
 
 # 🚀 Projeto Bootcamp DIO - Python
@@ -11,7 +12,7 @@ Este repositório contém dois códigos desenvolvidos durante o bootcamp da DIO,
 Um programa em Python que classifica o nível de um herói com base em sua experiência (XP).
 
 ### Como executar:
-```bash
+
 python app.py
 
 Exemplo de saída:
