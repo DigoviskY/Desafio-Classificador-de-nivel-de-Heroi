@@ -1,7 +1,6 @@
 nome = input("Digite o nome do Héroi: ")
 xp = int(input("Digite a quantidade de experiência: "))
 
-#Estrutura de decisão para classificar o nível
 if xp <= 1000:
     nivel = "Ferro"
 elif 1001 <= xp <= 2000:
